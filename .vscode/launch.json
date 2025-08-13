@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/OneDrive/Desktop/Data_Structure_lab",
-      "program": "c:/Users/user/OneDrive/Desktop/Data_Structure_lab/build/Debug/outDebug",
+      "cwd": "c:/Users/user/OneDrive/Desktop/Data_Structure_lab/Assignment_1",
+      "program": "c:/Users/user/OneDrive/Desktop/Data_Structure_lab/Assignment_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
