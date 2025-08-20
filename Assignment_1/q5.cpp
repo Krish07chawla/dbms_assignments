@@ -19,5 +19,7 @@ int main() {
         for (int i = 0; i < r; i++) sum += a[i][j];
         cout << "Sum of col " << j + 1 << " = " << sum << endl;
     }
+    
     return 0;
+   
 }
