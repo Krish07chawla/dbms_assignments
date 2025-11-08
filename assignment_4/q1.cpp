@@ -50,5 +50,6 @@ int main() {
     q.display();
     q.dequeue();
     q.peek();
+    
     q.display();
 }
